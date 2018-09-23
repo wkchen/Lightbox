@@ -98,7 +98,7 @@ public class LightboxConfig {
     public static var ellipsisColor = UIColor(hex: "899AB9")
 
     public static var textAttributes: [NSAttributedStringKey: Any] = [
-      .font: UIFont.systemFont(ofSize: 12),
+      .font: UIFont.systemFont(ofSize: 16),
       .foregroundColor: UIColor(hex: "DBDBDB")
     ]
   }
